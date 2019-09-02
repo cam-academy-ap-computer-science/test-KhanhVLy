@@ -2,5 +2,3 @@ Next steps
 "Verify your email address"
 "Configure two-factor authentication"
 "Add a bio to your profile"
-"Create an organization"
-Final step
